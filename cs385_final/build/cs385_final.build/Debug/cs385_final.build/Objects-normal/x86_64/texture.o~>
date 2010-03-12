@@ -1,0 +1,11 @@
+/Users/james/Desktop/cs385_final/texture.cpp:26: error: 'BITMAPINFOHEADER' has not been declared
+/Users/james/Desktop/cs385_final/texture.cpp:241: error: 'BITMAPINFOHEADER' has not been declared
+/Users/james/Desktop/cs385_final/texture.cpp: In function 'unsigned char* LoadBitmapFile(char*, int*)':
+/Users/james/Desktop/cs385_final/texture.cpp:265: error: 'BITMAPINFOHEADER' was not declared in this scope
+/Users/james/Desktop/cs385_final/texture.cpp:271: error: request for member 'biSizeImage' in '* bitmapInfoHeader', which is of non-class type 'int'
+/Users/james/Desktop/cs385_final/texture.cpp:282: error: request for member 'biSizeImage' in '* bitmapInfoHeader', which is of non-class type 'int'
+/Users/james/Desktop/cs385_final/texture.cpp:292: error: request for member 'biSizeImage' in '* bitmapInfoHeader', which is of non-class type 'int'
+/Users/james/Desktop/cs385_final/texture.cpp: In function 'void initializeTexture()':
+/Users/james/Desktop/cs385_final/texture.cpp:330: error: 'BITMAPINFOHEADER' was not declared in this scope
+/Users/james/Desktop/cs385_final/texture.cpp:330: error: expected `;' before 'bitmapInfoHeader'
+/Users/james/Desktop/cs385_final/texture.cpp:332: error: 'bitmapInfoHeader' was not declared in this scope

@@ -1,0 +1,89 @@
+/Users/james/Desktop/cs385_final/main.cpp:7:21: error: GL/glut.h: No such file or directory
+/Users/james/Desktop/cs385_final/main.cpp:25: error: 'BITMAPINFOHEADER' has not been declared
+/Users/james/Desktop/cs385_final/main.cpp:35: error: 'GLuint' does not name a type
+/Users/james/Desktop/cs385_final/main.cpp:36: error: 'GLuint' does not name a type
+/Users/james/Desktop/cs385_final/main.cpp: In function 'int main(int, char**)':
+/Users/james/Desktop/cs385_final/main.cpp:43: error: 'glutInitWindowSize' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:44: error: 'glutInit' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:45: error: 'GLUT_DOUBLE' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:45: error: 'GLUT_RGB' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:45: error: 'GLUT_DEPTH' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:45: error: 'glutInitDisplayMode' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:46: error: 'glutCreateWindow' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:49: error: 'glutDisplayFunc' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:50: error: 'glutReshapeFunc' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:51: error: 'glutKeyboardFunc' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:52: error: 'glutMotionFunc' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:58: error: 'glutMainLoop' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp: In function 'void init()':
+/Users/james/Desktop/cs385_final/main.cpp:66: error: 'GL_PROJECTION' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:66: error: 'glMatrixMode' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:67: error: 'glLoadIdentity' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:68: error: 'gluPerspective' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:69: error: 'GL_MODELVIEW' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:73: error: 'glClearColor' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:76: error: 'GL_DEPTH_TEST' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:76: error: 'glEnable' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp: In function 'void reshape(int, int)':
+/Users/james/Desktop/cs385_final/main.cpp:89: error: 'glViewport' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp: In function 'void display()':
+/Users/james/Desktop/cs385_final/main.cpp:97: error: 'GLenum' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:97: error: expected `;' before 'errCode'
+/Users/james/Desktop/cs385_final/main.cpp:98: error: 'errCode' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:98: error: 'glGetError' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:98: error: 'GL_NO_ERROR' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:99: error: 'gluErrorString' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:102: error: 'GL_MODELVIEW' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:102: error: 'glMatrixMode' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:103: error: 'glLoadIdentity' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:118: error: 'gluLookAt' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:121: error: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:121: error: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:121: error: 'glClear' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:124: error: 'GL_TEXTURE_2D' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:124: error: 'glEnable' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:125: error: 'topTexture' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:125: error: 'glBindTexture' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:128: error: 'GL_TRIANGLES' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:128: error: 'glBegin' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:129: error: 'glTexCoord2f' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:129: error: 'glVertex3f' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:132: error: 'glEnd' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:141: error: 'GL_QUADS' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:160: error: 'baseTexture' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:192: error: 'glutSwapBuffers' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp: In function 'void keyboard(unsigned char, int, int)':
+/Users/james/Desktop/cs385_final/main.cpp:222: error: 'glutPostRedisplay' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp: At global scope:
+/Users/james/Desktop/cs385_final/main.cpp:240: error: 'BITMAPINFOHEADER' has not been declared
+/Users/james/Desktop/cs385_final/main.cpp: In function 'unsigned char* LoadBitmapFile(char*, int*)':
+/Users/james/Desktop/cs385_final/main.cpp:243: error: 'BITMAPFILEHEADER' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:243: error: expected `;' before 'bitmapFileHeader'
+/Users/james/Desktop/cs385_final/main.cpp:254: error: 'bitmapFileHeader' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:264: error: 'BITMAPINFOHEADER' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:270: error: request for member 'biSizeImage' in '* bitmapInfoHeader', which is of non-class type 'int'
+/Users/james/Desktop/cs385_final/main.cpp:281: error: request for member 'biSizeImage' in '* bitmapInfoHeader', which is of non-class type 'int'
+/Users/james/Desktop/cs385_final/main.cpp:291: error: request for member 'biSizeImage' in '* bitmapInfoHeader', which is of non-class type 'int'
+/Users/james/Desktop/cs385_final/main.cpp: In function 'void motion(int, int)':
+/Users/james/Desktop/cs385_final/main.cpp:321: error: 'glutPostRedisplay' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp: In function 'void initializeTexture()':
+/Users/james/Desktop/cs385_final/main.cpp:329: error: 'BITMAPINFOHEADER' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:329: error: expected `;' before 'bitmapInfoHeader'
+/Users/james/Desktop/cs385_final/main.cpp:331: error: 'bitmapInfoHeader' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:334: error: 'topTexture' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:334: error: 'glGenTextures' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:337: error: 'GL_TEXTURE_2D' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:337: error: 'glEnable' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:338: error: 'glBindTexture' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:342: error: 'GL_TEXTURE_MIN_FILTER' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:342: error: 'GL_LINEAR' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:342: error: 'glTexParameteri' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:343: error: 'GL_TEXTURE_MAG_FILTER' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:347: error: 'GL_TEXTURE_WRAP_S' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:347: error: 'GL_REPEAT' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:348: error: 'GL_TEXTURE_WRAP_T' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:351: error: 'GL_RGB' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:352: error: 'GL_UNSIGNED_BYTE' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:353: error: 'glTexImage2D' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:358: error: 'baseTexture' was not declared in this scope
+/Users/james/Desktop/cs385_final/main.cpp:378: error: 'glDisable' was not declared in this scope

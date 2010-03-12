@@ -1,0 +1,364 @@
+Tcs385_final
+v7
+r0
+t290058328.131476
+cCheck dependencies
+cProcessInfoPlistFile /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Info.plist cs385_final-Info.plist
+cCopyStringsFile /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/james/Desktop/cs385_final/English.lproj/MainMenu.xib
+cCpResource build/Debug/cs385_final.app/Contents/Resources/checkerboard.bmp checkerboard.bmp
+cCpResource build/Debug/cs385_final.app/Contents/Resources/texture.bmp texture.bmp
+cProcessPCH /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cihbxntyuuelneefxgwytgyirlzb/cs385_final_Prefix.pch.gch cs385_final_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cjzwgoianwejvccjdnbztkdplati/cs385_final_Prefix.pch.gch cs385_final_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/cs385_finalAppDelegate.o /Users/james/Desktop/cs385_final/cs385_finalAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/geometry.o /Users/james/Desktop/cs385_final/geometry.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/texture.o /Users/james/Desktop/cs385_final/texture.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/MacOS/cs385_final normal x86_64
+cTouch /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004ABBF0EE000000000001A494
+t1253830894
+s107668
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004A124745000000000000578C
+t1242711877
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004ABBF0EF000000000000DA18
+t1253830895
+s55832
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004A5C14A60000000000000DCB
+t1247548582
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/james/Desktop/cs385_final/English.lproj/InfoPlist.strings
+c000000004B99B696000000000000002D
+t1268364950
+s45
+
+N/Users/james/Desktop/cs385_final/English.lproj/MainMenu.xib
+c000000004B99B696000000000002BB97
+t1268364950
+s179095
+
+N/Users/james/Desktop/cs385_final/bmp.h
+c000000004B8D613E000000000000007A
+t1267556670
+s122
+
+N/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app
+t1268365528
+s102
+
+N/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Info.plist
+t1268364999
+s898
+
+N/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/MacOS/cs385_final
+t1268365528
+s33912
+
+N/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/PkgInfo
+t1268364999
+s8
+
+N/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1268364999
+s92
+
+N/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/English.lproj/MainMenu.nib
+t1268365000
+s34447
+
+N/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/checkerboard.bmp
+t1268365121
+s786486
+
+N/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/texture.bmp
+t1268365121
+s196662
+
+N/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/cs385_final.LinkFileList
+c000000004B99B77F0000000000000163
+t1268365183
+s355
+
+N/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/cs385_finalAppDelegate.o
+t1268365003
+s21200
+
+N/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/geometry.o
+t1268365122
+s84684
+
+N/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/main.o
+t1268365122
+s1412
+
+N/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/texture.o
+t1268365527
+s84580
+
+N/Users/james/Desktop/cs385_final/checkerboard.bmp
+c000000004B8D612800000000000C0036
+t1267556648
+s786486
+
+N/Users/james/Desktop/cs385_final/cs385_finalAppDelegate.h
+c000000004B99B6960000000000000140
+t1268364950
+s320
+i<Cocoa/Cocoa.h>
+
+N/Users/james/Desktop/cs385_final/cs385_finalAppDelegate.m
+c000000004B99B6960000000000000179
+t1268364950
+s377
+i"cs385_finalAppDelegate.h"
+
+N/Users/james/Desktop/cs385_final/cs385_final_Prefix.pch
+c000000004B99B6960000000000000099
+t1268364950
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/james/Desktop/cs385_final/geometry.cpp
+c000000004B8D613600000000000010ED
+t1267556662
+s4333
+i<math.h>
+i<assert.h>
+i"geometry.h"
+
+N/Users/james/Desktop/cs385_final/geometry.h
+c000000004B8D613A0000000000000850
+t1267556666
+s2128
+i<iostream>
+
+N/Users/james/Desktop/cs385_final/main.cpp
+c000000004B99B774000000000000264F
+t1268365172
+s9807
+
+N/Users/james/Desktop/cs385_final/main.m
+c000000004B99B69600000000000000FA
+t1268364950
+s250
+i<Cocoa/Cocoa.h>
+
+N/Users/james/Desktop/cs385_final/texture.bmp
+c000000004B8D61300000000000030036
+t1267556656
+s196662
+
+N/Users/james/Desktop/cs385_final/texture.cpp
+c000000004B99B9680000000000002646
+t1268365672
+s9798
+i<iostream>
+i<GLUT/glut.h>
+i<stdio.h>
+i<math.h>
+i"windows_sux.h"
+i"bmp.h"
+i"geometry.h"
+
+N/Users/james/Desktop/cs385_final/windows_sux.h
+c000000004B99B8D20000000000000237
+t1268365522
+s567
+
+N/var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cihbxntyuuelneefxgwytgyirlzb/cs385_final_Prefix.pch.gch
+t1268365003
+s54212368
+
+N/var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cjzwgoianwejvccjdnbztkdplati/cs385_final_Prefix.pch.gch
+t1268365000
+s2527600
+
+Ncs385_final-Info.plist
+c000000004B99B69600000000000003EA
+t1268364950
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290058327#290058327#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/cs385_finalAppDelegate.o /Users/james/Desktop/cs385_final/cs385_finalAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s290057803.354739
+e290057803.516168
+r1
+xCompileC
+xbuild/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/cs385_finalAppDelegate.o
+x/Users/james/Desktop/cs385_final/cs385_finalAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/james/Desktop/cs385_final/cs385_finalAppDelegate.m290057803#290057803#0(0"0(0#0#57"/Users/james/Desktop/cs385_final/cs385_finalAppDelegate.m4300885448#1500"    cd /Users/james/Desktop/cs385_final    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-generated-files.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-own-target-headers.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-all-target-headers.hmap -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-project-headers.hmap -F/Users/james/Desktop/cs385_final/build/Debug -I/Users/james/Desktop/cs385_final/build/Debug/include -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources/x86_64 -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources -include /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cihbxntyuuelneefxgwytgyirlzb/cs385_final_Prefix.pch -c /Users/james/Desktop/cs385_final/cs385_finalAppDelegate.m -o /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/cs385_finalAppDelegate.o0#
+
+CCompileC build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/geometry.o /Users/james/Desktop/cs385_final/geometry.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s290057922.048005
+e290057922.530929
+r1
+xCompileC
+xbuild/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/geometry.o
+x/Users/james/Desktop/cs385_final/geometry.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/james/Desktop/cs385_final/geometry.cpp290057922#290057922#0(0"0(0#0#45"/Users/james/Desktop/cs385_final/geometry.cpp4300885448#1483"    cd /Users/james/Desktop/cs385_final    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-generated-files.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-own-target-headers.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-all-target-headers.hmap -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-project-headers.hmap -F/Users/james/Desktop/cs385_final/build/Debug -I/Users/james/Desktop/cs385_final/build/Debug/include -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources/x86_64 -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources -include /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cjzwgoianwejvccjdnbztkdplati/cs385_final_Prefix.pch -c /Users/james/Desktop/cs385_final/geometry.cpp -o /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/geometry.o0#
+
+CCompileC build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/main.o /Users/james/Desktop/cs385_final/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s290057922.023565
+e290057922.075426
+r1
+xCompileC
+xbuild/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/main.o
+x/Users/james/Desktop/cs385_final/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/james/Desktop/cs385_final/main.cpp290057922#290057922#0(0"0(0#0#41"/Users/james/Desktop/cs385_final/main.cpp4300885448#1475"    cd /Users/james/Desktop/cs385_final    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-generated-files.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-own-target-headers.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-all-target-headers.hmap -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-project-headers.hmap -F/Users/james/Desktop/cs385_final/build/Debug -I/Users/james/Desktop/cs385_final/build/Debug/include -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources/x86_64 -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources -include /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cjzwgoianwejvccjdnbztkdplati/cs385_final_Prefix.pch -c /Users/james/Desktop/cs385_final/main.cpp -o /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/main.o /Users/james/Desktop/cs385_final/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/texture.o /Users/james/Desktop/cs385_final/texture.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s290058327.451796
+e290058327.889231
+r1
+xCompileC
+xbuild/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/texture.o
+x/Users/james/Desktop/cs385_final/texture.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/james/Desktop/cs385_final/texture.cpp: In function 'void initializeTexture()':
+o/Users/james/Desktop/cs385_final/texture.cpp:332: warning: deprecated conversion from string constant to 'char*'
+o/Users/james/Desktop/cs385_final/texture.cpp:356: warning: deprecated conversion from string constant to 'char*'
+lSLF07#2@52"Compile /Users/james/Desktop/cs385_final/texture.cpp290058327#290058327#0(312"/Users/james/Desktop/cs385_final/texture.cpp: In function 'void initializeTexture()':/Users/james/Desktop/cs385_final/texture.cpp:332: warning: deprecated conversion from string constant to 'char*'/Users/james/Desktop/cs385_final/texture.cpp:356: warning: deprecated conversion from string constant to 'char*'2(22@53"Deprecated conversion from string constant to 'char*'290058327#86#113#0(6@44"/Users/james/Desktop/cs385_final/texture.cpp290058318#332#0#332#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'290058327#199#113#0(6@44"/Users/james/Desktop/cs385_final/texture.cpp290058318#356#0#356#0#49"deprecated conversion from string constant to '*'0(0#0#44"/Users/james/Desktop/cs385_final/texture.cpp4300885448#1481"    cd /Users/james/Desktop/cs385_final    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-generated-files.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-own-target-headers.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-all-target-headers.hmap -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-project-headers.hmap -F/Users/james/Desktop/cs385_final/build/Debug -I/Users/james/Desktop/cs385_final/build/Debug/include -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources/x86_64 -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources -include /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cjzwgoianwejvccjdnbztkdplati/cs385_final_Prefix.pch -c /Users/james/Desktop/cs385_final/texture.cpp -o /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/texture.o0#
+
+CCompileXIB /Users/james/Desktop/cs385_final/English.lproj/MainMenu.xib
+s290057799.680035
+e290057800.123818
+r1
+xCompileXIB
+x/Users/james/Desktop/cs385_final/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib290057799#290057800#0(0"0(0#0#59"/Users/james/Desktop/cs385_final/English.lproj/MainMenu.xib4300885448#313"    cd /Users/james/Desktop/cs385_final    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/English.lproj/MainMenu.nib /Users/james/Desktop/cs385_final/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s290057799.679007
+e290057799.733750
+r1
+xCopyStringsFile
+x/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings290057799#290057799#0(0"0(0#0#64"/Users/james/Desktop/cs385_final/English.lproj/InfoPlist.strings4300885448#357"    cd /Users/james/Desktop/cs385_final    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/cs385_final.app/Contents/Resources/checkerboard.bmp checkerboard.bmp
+s290057921.955104
+e290057922.022808
+r1
+xCpResource
+xbuild/Debug/cs385_final.app/Contents/Resources/checkerboard.bmp
+xcheckerboard.bmp
+lSLF07#2@21"Copy checkerboard.bmp290057921#290057922#0(0"0(0#0#49"/Users/james/Desktop/cs385_final/checkerboard.bmp27303270316507232#318"    cd /Users/james/Desktop/cs385_final    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/james/Desktop/cs385_final/checkerboard.bmp /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources0#
+
+CCpResource build/Debug/cs385_final.app/Contents/Resources/texture.bmp texture.bmp
+s290057921.960097
+e290057922.003694
+r1
+xCpResource
+xbuild/Debug/cs385_final.app/Contents/Resources/texture.bmp
+xtexture.bmp
+lSLF07#2@16"Copy texture.bmp290057921#290057922#0(0"0(0#0#44"/Users/james/Desktop/cs385_final/texture.bmp4300885448#313"    cd /Users/james/Desktop/cs385_final    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/james/Desktop/cs385_final/texture.bmp /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Resources0#
+
+CLd /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/MacOS/cs385_final normal x86_64
+s290058327.889327
+e290058328.087107
+r1
+xLd
+x/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/MacOS/cs385_final
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/MacOS/cs385_final290058327#290058328#0(0"0(0#0#0"4300885448#566"    cd /Users/james/Desktop/cs385_final    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/james/Desktop/cs385_final/build/Debug -F/Users/james/Desktop/cs385_final/build/Debug -filelist /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/Objects-normal/x86_64/cs385_final.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework GLUT -framework OpenGL -o /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/MacOS/cs385_final0#
+
+CProcessInfoPlistFile /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Info.plist cs385_final-Info.plist
+s290057799.671275
+e290057799.678846
+r1
+xProcessInfoPlistFile
+x/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Info.plist
+xcs385_final-Info.plist
+lSLF07#2@30"Process cs385_final-Info.plist290057799#290057799#0(0"0(0#0#55"/Users/james/Desktop/cs385_final/cs385_final-Info.plist26740350424449076#304"    cd /Users/james/Desktop/cs385_final    builtin-infoPlistUtility cs385_final-Info.plist -genpkginfo /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cihbxntyuuelneefxgwytgyirlzb/cs385_final_Prefix.pch.gch cs385_final_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s290057800.125188
+e290057803.353190
+r1
+xProcessPCH
+x/var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cihbxntyuuelneefxgwytgyirlzb/cs385_final_Prefix.pch.gch
+xcs385_final_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile cs385_final_Prefix.pch290057800#290057803#0(0"0(0#0#55"/Users/james/Desktop/cs385_final/cs385_final_Prefix.pch4300885448#1372"    cd /Users/james/Desktop/cs385_final    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-generated-files.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-own-target-headers.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-all-target-headers.hmap -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-project-headers.hmap -F/Users/james/Desktop/cs385_final/build/Debug -I/Users/james/Desktop/cs385_final/build/Debug/include -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources/x86_64 -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources -c /Users/james/Desktop/cs385_final/cs385_final_Prefix.pch -o /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cihbxntyuuelneefxgwytgyirlzb/cs385_final_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cjzwgoianwejvccjdnbztkdplati/cs385_final_Prefix.pch.gch cs385_final_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s290057800.124011
+e290057800.220946
+r1
+xProcessPCH++
+x/var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cjzwgoianwejvccjdnbztkdplati/cs385_final_Prefix.pch.gch
+xcs385_final_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile cs385_final_Prefix.pch290057800#290057800#0(0"0(0#0#55"/Users/james/Desktop/cs385_final/cs385_final_Prefix.pch4300885448#1381"    cd /Users/james/Desktop/cs385_final    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-generated-files.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-own-target-headers.hmap -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-all-target-headers.hmap -iquote /Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/cs385_final-project-headers.hmap -F/Users/james/Desktop/cs385_final/build/Debug -I/Users/james/Desktop/cs385_final/build/Debug/include -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources/x86_64 -I/Users/james/Desktop/cs385_final/build/cs385_final.build/Debug/cs385_final.build/DerivedSources -c /Users/james/Desktop/cs385_final/cs385_final_Prefix.pch -o /var/folders/Bp/BpjO1qnkGAWnmIktrbEbf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cs385_final_Prefix-cjzwgoianwejvccjdnbztkdplati/cs385_final_Prefix.pch.gch0#
+
+CTouch /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app
+s290058328.087202
+e290058328.131417
+r1
+xTouch
+x/Users/james/Desktop/cs385_final/build/Debug/cs385_final.app
+lSLF07#2@66"Touch /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app290058328#290058328#0(0"0(0#0#0"4300885448#123"    cd /Users/james/Desktop/cs385_final    /usr/bin/touch -c /Users/james/Desktop/cs385_final/build/Debug/cs385_final.app0#
+
